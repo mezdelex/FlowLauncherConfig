@@ -1,0 +1,41 @@
+[app]
+hotkey_run = alt+;
+launch_at_startup = yes
+[gui]
+theme = Gruvbox
+[theme/Gruvbox]
+color_accent = #A9B665
+color_background = #282828
+color_faded = #a2a2a2
+color_foreground = #D4BE98
+color_listitem_back = #282828
+color_listitem_desc = #7DAEA3
+color_listitem_selected_back = #5A524C
+color_listitem_selected_desc = #7DAEA3
+color_listitem_selected_tips = #D8A657
+color_listitem_selected_title = #D4BE98
+color_listitem_tips = #D8A657
+color_listitem_title = #D4BE98
+color_status = #D3869B
+color_textbox_back = #282828
+color_title = #A9B665
+color_warn = #EA6962
+compact_results = no
+control_margin = 6
+font_face = Delugia
+font_large_size = 28
+font_large_style = bold
+font_normal_size = 10
+font_normal_style = cleartype
+font_small_size = 10
+font_small_style = cleartype
+font_snormal_size = 10
+font_snormal_style = cleartype
+layout = list_selmark,list_dialnum,list_actions,list_scrollbar,list_hits,status,list_icon
+listitem_padding = 4
+listitem_title_font = snormal
+opacity_back = 100
+satellite_pos = topcenter
+satellite_show = never
+satellite_size = jumbo
+textbox_padding = 4
