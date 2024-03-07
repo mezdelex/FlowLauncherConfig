@@ -2,24 +2,24 @@
 hotkey_run = alt+;
 launch_at_startup = yes
 [gui]
-theme = Catppuccin
-[theme/Catppuccin]
-color_accent = #F9E2AF
-color_background = #1E1E2E
-color_faded = #585B70
-color_foreground = #BAC2DE
-color_listitem_back = #1E1E2E
-color_listitem_desc = #94E2D5
-color_listitem_selected_back = #585B70
-color_listitem_selected_desc = #94E2D5
-color_listitem_selected_tips = #F9E2AF
-color_listitem_selected_title = #BAC2DE
-color_listitem_tips = #F9E2AF
-color_listitem_title = #585B70
-color_status = #F5C2E7
-color_textbox_back = #1E1E2E
-color_title = #F9E2AF
-color_warn = #F38BA8
+theme = Gruvbox
+[theme/Gruvbox]
+color_accent = #BDAE93
+color_background = #282828
+color_faded = #504945
+color_foreground = #A89984
+color_listitem_back = #282828
+color_listitem_desc = #8EC07C
+color_listitem_selected_back = #3C3836
+color_listitem_selected_desc = #8EC07C
+color_listitem_selected_tips = #D3869B
+color_listitem_selected_title = #FABD2F
+color_listitem_tips = #D3869B
+color_listitem_title = #83A598
+color_status = #D3869B
+color_textbox_back = #282828
+color_title = #A89984
+color_warn = #FB4934
 compact_results = no
 control_margin = 6
 font_face = Delugia
