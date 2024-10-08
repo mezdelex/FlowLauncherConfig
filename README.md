@@ -1,8 +1,13 @@
-# Keypirinha Config
+# Keypirinha
 
-Resource|URI|Description
-|:-:|:-:|:-:|
-Keypirinha|[settings](https://github.com/mezdelex/KeypirinhaConfig/blob/main/settings.txt)|Copy `settings.txt` content into `Keypirinha.ini` via `Keypirinha: Configure`
+- OS: Windows 11
 
-## Images
-![image](https://github.com/mezdelex/KeypirinhaConfig/assets/59997405/6cdfab82-c0e1-466c-9106-7a873b390514)
+## Setup
+
+- `scoop install keypirinha @ PowerShell` & copy `settings.txt` content into `Keypirinha.ini` via `Keypirinha: Configure`
+
+## Core
+
+|    Name    |                      Source                      |                                       Uri                                       |
+| :--------: | :----------------------------------------------: | :-----------------------------------------------------------------------------: |
+| Keypirinha | [repo](https://github.com/Keypirinha/Keypirinha) | [settings](https://github.com/mezdelex/KeypirinhaConfig/blob/main/settings.txt) |

@@ -2,24 +2,24 @@
 hotkey_run = alt+;
 launch_at_startup = yes
 [gui]
-theme = Gruvbox
-[theme/Gruvbox]
-color_accent = #BDAE93
-color_background = #282828
-color_faded = #504945
-color_foreground = #A89984
-color_listitem_back = #282828
-color_listitem_desc = #8EC07C
-color_listitem_selected_back = #3C3836
-color_listitem_selected_desc = #8EC07C
-color_listitem_selected_tips = #D3869B
-color_listitem_selected_title = #FABD2F
-color_listitem_tips = #D3869B
-color_listitem_title = #83A598
-color_status = #D3869B
-color_textbox_back = #282828
-color_title = #A89984
-color_warn = #FB4934
+theme = Everforest
+[theme/Everforest]
+color_accent = #D3C6AA
+color_background = #2D353B
+color_faded = #543A48
+color_foreground = #D3C6AA
+color_listitem_back = #2D353B
+color_listitem_desc = #A7C080
+color_listitem_selected_back = #543A48
+color_listitem_selected_desc = #A7C080
+color_listitem_selected_tips = #D699B6
+color_listitem_selected_title = #DBBC7F
+color_listitem_tips = #D699B6
+color_listitem_title = #83C092
+color_status = #D699B6
+color_textbox_back = #2D353B
+color_title = #D3C6AA
+color_warn = #E67E80
 compact_results = no
 control_margin = 6
 font_face = Delugia
