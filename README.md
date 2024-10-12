@@ -4,7 +4,7 @@
 
 ## Setup
 
-- `scoop install keypirinha @ PowerShell` & copy `settings.txt` content into `Keypirinha.ini` via `Keypirinha: Configure`
+- Install `keypirinha` via `scoop install keypirinha` @ PowerShell & copy `settings.txt` content into `Keypirinha.ini` via `Keypirinha: Configure`
 
 ## Core
 
