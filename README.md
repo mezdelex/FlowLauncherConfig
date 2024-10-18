@@ -1,17 +1,18 @@
-# Keypirinha
+# Flow Launcher
 
 - OS: Windows 11
 
 ## Setup
 
-- Install `keypirinha` via `scoop install keypirinha` @ PowerShell & copy `settings.txt` content into `Keypirinha.ini` via `Keypirinha: Configure`
+- Install `flow-launcher` via `scoop install flow-launcher` @ PowerShell
+- Clone this repository `git clone https://github.com/mezdelex/FlowLauncherConfig $HOME/scoop/apps/flow-launcher/current/app-*/UserData/Themes`
 
 ## Core
 
-|    Name    |                      Source                      |                                       Uri                                       |
-| :--------: | :----------------------------------------------: | :-----------------------------------------------------------------------------: |
-| Keypirinha | [repo](https://github.com/Keypirinha/Keypirinha) | [settings](https://github.com/mezdelex/KeypirinhaConfig/blob/main/settings.txt) |
+| Name  |                         Source                         |                                          Uri                                           |
+| :---: | :----------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| Theme | [repo](https://github.com/Flow-Launcher/Flow.Launcher) | [everforest](https://github.com/mezdelex/FlowLauncherConfig/blob/main/Everforest.xaml) |
 
 ## Images
 
-![image](https://github.com/user-attachments/assets/716718ca-6d43-4c4e-bcd4-f2a5d318cf59)
+![image](https://github.com/user-attachments/assets/419f3683-82fd-4617-b93c-3bb521cead87)
