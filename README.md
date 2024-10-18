@@ -5,7 +5,8 @@
 ## Setup
 
 - Install `flow-launcher` via `scoop install flow-launcher` @ PowerShell
-- Clone this repository `git clone https://github.com/mezdelex/FlowLauncherConfig $HOME/scoop/apps/flow-launcher/current/app-*/UserData/Themes`
+- Change directory `cd $HOME/scoop/apps/flow-launcher/current/app-*/UserData/Themes`
+- Clone this repository `git clone https://github.com/mezdelex/FlowLauncherConfig .`
 
 ## Core
 
